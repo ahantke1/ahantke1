@@ -2,7 +2,7 @@
 
 ### I am a Front-End Developer and Digital Experience Designer
 - I am currently working on creating dynamic web expereinces
-- Interested in AR/VR, Blockchain, and Web3 development
+- Interested in AR/VR, Blockchain, and modern web development
 - The best way to reach me is my [LinkedIn](https://www.linkedin.com/in/ahantke/)
 
 ## Technologies
