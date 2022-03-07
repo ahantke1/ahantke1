@@ -8,4 +8,4 @@
 ## Technologies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahantke1&layout=compact&theme=tokyonight)
 
-[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahantke1)](https://github.com/ahantke1/github-readme-stats)
+[![Andys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahantke1)](https://github.com/anuraghazra/github-readme-stats)
