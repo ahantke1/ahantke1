@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Andy
 
-### I am a Developer and Digital Designer
+### I am a Sofware Engineer and Designer
 - I am currently working on creating dynamic web expereinces
 - Interested in AR/VR, Blockchain, and modern web development
 - The best way to reach me is my [LinkedIn](https://www.linkedin.com/in/ahantke/)
