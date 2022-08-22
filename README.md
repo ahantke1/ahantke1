@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Andy
 
 ### I am a Sofware Engineer and Designer
-- I am currently working on creating build and release tools
-- Interested in AR/VR, Blockchain, and Cloud Native Technologies
+- I am currently working on creating build and release developer tools
+- Interested in Software Architecture, AR/VR, Blockchain, and Cloud Native Technologies
 - The best way to reach me is my [LinkedIn](https://www.linkedin.com/in/ahantke/)
 
 ## Technologies
