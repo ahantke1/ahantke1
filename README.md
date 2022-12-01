@@ -2,7 +2,7 @@
 
 ### I am a Sofware Engineer and Designer
 - I am currently working on creating build and release developer tools
-- Interested in Software Architecture, Blockchain, and Cloud Native Technologies
+- Interested in Software Architecture, Developer Tooling, Blockchain, and Cloud Native Technologies
 - The best way to reach me is my [LinkedIn](https://www.linkedin.com/in/ahantke/)
 
 ## Technologies
