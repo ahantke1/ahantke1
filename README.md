@@ -2,7 +2,7 @@
 
 ### I am a Sofware Engineer and Designer
 - I am currently working on creating build and release developer tools
-- Interested in Software Architecture, Developer Tooling, Blockchain, and Cloud Native Technologies
+- Interested in Software Architecture, Developer Tooling, DevOps, Blockchain, and Cloud Native Technologies
 - The best way to reach me is my [LinkedIn](https://www.linkedin.com/in/ahantke/)
 
 Because a lot of my current work is at an enterprise level, most of the work on my public github is school, personal, or opensource projects. 
