@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Andy
+# Hi there 👋
 
 ### I am a Sofware Engineer and Designer
 - I am currently working on creating build and release developer tools
